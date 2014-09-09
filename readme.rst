@@ -60,3 +60,5 @@ Acknowledgement
 
 The EllisLab team and The Reactor Engineers would like to thank all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+[ ![Codeship Status for Czachur/CodeIgniter](https://www.codeship.io/projects/ff47dd80-1a8a-0132-42f9-66434e25f59b/status)](https://www.codeship.io/projects/34701)
